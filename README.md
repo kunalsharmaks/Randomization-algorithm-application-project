@@ -6,6 +6,7 @@
 
 
 
+
 1.)	Monte Carlo Algorithm:
 
 Monte Carlo is that class of algorithm which may return the correct result or the incorrect result with some probability. The algorithm resources used in this are often bounded and thus it has a deterministic or fixed run time. It gives better probability results when it is run for a larger number of iterations.
